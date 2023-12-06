@@ -131,9 +131,21 @@ main {
 #benefits p {
     padding: 0 20px;
 }
-hr {
+#benefit hr {
     border-top: 1px solid#333333;
     margin: 5px 0;
+}
+
+/* Benifit Pic */
+#circle-cover-bg {
+    background: url('../images/benefits.webp') no-repeat center top center/ cover;
+    height: 90vw;
+    width: 90vw;
+    margin-bottom: 20px;
+    /* Make square image into circle */
+    border-radius: 50%;
+    max-width: 300px;
+    max-height: 300px;
 }
 
 /* Footer */
