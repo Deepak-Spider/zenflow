@@ -17,6 +17,13 @@ body {
     color: #3a3a3a;
     font-family: 'Nunito', sans-serif;
 }
+
+h1, h2, h3 {
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;
+    color: #62A3FF;
+}
+
 /* Header */
 header {
     background-color: #ffffff;
@@ -34,12 +41,6 @@ header a {
     text-decoration: none;
     color: inherit;
 
-}
-
-h1 {
-    font-family: 'Open Sans', sans-serif;
-    text-transform: uppercase;
-    color: #62A3FF;
 }
 
 #menu {
@@ -90,8 +91,24 @@ main {
     height: 600px;
     width: 100%;
     background: url("../images/hero-image.webp") no-repeat center center/ cover;
+    position: relative;
 }
 
+#cover-text {
+    /* Final rgba value is set with opacity to transparent */
+    background-color: #f5f5f5;
+    font-size: 130%;
+    position: absolute;
+    bottom: 30px;
+    width: 80%;
+    min-height: 200px;
+    padding-top: 40px;
+    padding-bottom: 10px;
+}
+
+#cover-text > h2, #cover-text > h3 {
+    color: #333333;
+}
 /* Footer */
 #social-networks {
     text-align: center;
@@ -139,7 +156,14 @@ main {
         margin-top: 79px;
    }
 
-   /* Larger device (laptop and desktops, 992px and up) */
+/* Hero text */
+#cover-text {
+    width: 300px;
+    left: 50px;
+    padding-left: 1rem;
+}
+  
+/* Larger device (laptop and desktops, 992px and up) */
    @media screen and (min-width:992px) {
         #menu a:hover {
             border-bottom: 1px solid #3a3a3a;
