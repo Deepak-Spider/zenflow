@@ -138,14 +138,20 @@ main {
 
 /* Benifit Pic */
 #circle-cover-bg {
-    background: url('../images/benefits.webp') no-repeat center top center/ cover;
+    background: url('../images/benefits.webp') no-repeat top center / cover;
     height: 90vw;
     width: 90vw;
     margin-bottom: 20px;
-    /* Make square image into circle */
+    /* Makes the square image into a circle */
     border-radius: 50%;
     max-width: 300px;
     max-height: 300px;
+}
+
+#benefits-image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 /* Footer */
