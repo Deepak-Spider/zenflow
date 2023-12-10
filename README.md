@@ -5,7 +5,7 @@ As part of the design, calming colors, easy navigation, and visually pleasing im
 
 Visit ZenFlow's live site [here](https://deepak-spider.github.io/zenflow/)
 
-![ZenFlow responsive design](assets/images/zenflow-mockup.jpg)
+![ZenFlow responsive design](docs/screenshots/zenflow-mockup.jpg)
 
 # Contents
 
