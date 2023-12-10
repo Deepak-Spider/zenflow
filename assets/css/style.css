@@ -79,6 +79,19 @@ nav {
 .nav-toggle-label{
     font-size: 2rem;
 }
+
+/* Page opening paragraph excluding Home Page */
+
+.page-opening-text p {
+    font-size: 1.8rem;
+    letter-spacing: 2px;
+    padding: 80px 100px;
+    background-color: ;
+    width: 100%;
+    text-align: center;
+    line-height: 1.5;
+}
+
 /* Main content*/
 main {
     /* Make main element take any surplus space to push footer down */
