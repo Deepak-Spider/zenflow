@@ -80,16 +80,19 @@ nav {
     font-size: 2rem;
 }
 
-/* Page opening paragraph excluding Home Page */
+/* Page H1 excluding home page */
+.page-h1 {
+    font-size: 2rem;
+    padding: 40px;
+    text-align: center;
+}
 
-.page-opening-text p {
-    font-size: 1.8rem;
-    letter-spacing: 2px;
-    padding: 80px 100px;
-    background-color: ;
+/* Page Opening paragraph excluding home page */
+.page-opening-text p{
+    font-size: 1.5rem;
+    padding: 50px 50px;
     width: 100%;
     text-align: center;
-    line-height: 1.5;
 }
 
 /* Main content*/
@@ -189,28 +192,10 @@ main {
     padding: 0 20px;
 }
 
-/* Programs Section */
-.header-section {
-    background: url('../images/programs.webp') center/cover no-repeat; 
-    text-align: center;
-    color: white;
-    padding: 50px 0;
-    position: relative;
-}
-
-.header-section h1 {
-    font-size: 3em;
-    margin: 0;
-}
-
-.program-container {
-    margin: 20px;
-}
-
 /* Program-section, text-content, img, and media queries */
 
 .program-container {
-    margin: 20px;
+    margin: 10px;
 }
 
 .program-section {
