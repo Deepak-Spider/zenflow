@@ -118,8 +118,10 @@ main {
     bottom: 30px;
     width: 80%;
     min-height: 200px;
+    padding-left: 15px;
     padding-top: 40px;
-    padding-bottom: 10px;
+    padding-bottom: 10px
+    
 }
 
 #cover-text > h2, #cover-text > h3 {
@@ -135,6 +137,7 @@ main {
     margin-bottom: 20px;
     text-align: center;
     font-size: 180%;
+    padding-top: 40px;
 }
 #benefit-physical>div {
     line-height: 20px;
@@ -187,6 +190,7 @@ main {
     min-height: 100px;
     padding-top: 10px;
     padding-bottom: 10px;
+    padding-left: 20px;
 }
 #about-cover-text p {
     padding: 0 20px;
