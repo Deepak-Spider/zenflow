@@ -208,13 +208,12 @@ main {
 }
 
 img {
-    max-width: 40%; 
+    max-width: 20%; 
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 .text-content {
-    max-width: 60%;
     padding-left: 30px;
 }
 
