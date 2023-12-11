@@ -40,7 +40,6 @@ header {
 header a {
     text-decoration: none;
     color: inherit;
-
 }
 
 #menu {
@@ -72,6 +71,7 @@ nav {
 #nav-toggle:checked~nav {
     display: block;
 }
+
 #nav-toggle {
     display: none;
 }
@@ -121,7 +121,6 @@ main {
     padding-left: 15px;
     padding-top: 40px;
     padding-bottom: 10px
-    
 }
 
 #cover-text > h2, #cover-text > h3 {
@@ -303,29 +302,29 @@ img {
         width: fit-content;
         padding-right: 1rem;    
     }
-   #menu {
+    #menu {
     display: flex;
-   } 
+    } 
 
-   #menu > li {
+    #menu > li {
      padding-left: 1rem;
-   }
+    }
 
    .nav-toggle-label {
       display: none;
-   }
+    }
 
    #logo {
       font-size: 200%;
       line-height: 75px;
       margin: 0 0.5rem;
-   }
+    }
 
    /* Main Content */
    main {
     /* Push the main content down to accomodate larger heading */
         margin-top: 79px;
-   }
+    }
 
 /* Hero text */
 #cover-text {
@@ -358,7 +357,7 @@ img {
             border-bottom: 1px solid #3a3a3a;
         }
     
-   }
+    }
 
    @media screen and (min-width: 1200px) {    
     /* Reasons section */
