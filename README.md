@@ -236,15 +236,15 @@ The website has been deployed to GitHub pages using following steps:
 * Deployment can take up to 5 minutes.
 
 ## Credits
-* Fonts were sourced from Google Fonts
-* All images from the website were sourced from Pexels and Pixabay
+* Fonts were sourced from [Google Fonts](https://fonts.google.com/)
+* All images from the website were sourced from [Pexels](https://www.pexels.com/) and [Pixabay](https://pixabay.com/)
 * Images were converted to webp with Convertio
 * Colour palette was created by Adobe Color wheel
-* Contrast of entire website was checked with Color Contrast Checker EXPERTE.com 
+* Contrast of entire website was checked with Color Contrast Checker EXPERTE
 * Flexbox system was learned via youtube video from Kevin Powell - Learn flexbox the easy way.
 * Homepage design was inspired by the walkthrough project - Love Running.
 * Icons in the footer were taken from Font Awesome
-* The website referred for knowledge and information are - Headspace, Calm, Mindful.org, Insight Timer, UCLA Mindful Awareness Research Center (MARC): MARC 
+* The website referred for knowledge and information are - [Headspace](https://www.headspace.com/), [Calm](https://www.calm.com/), [Mindful.org](https://www.mindful.org/), [Insight Timer, UCLA Mindful Awareness Research Center (MARC)](https://www.uclahealth.org/programs/marc) 
 
 ## Acknowledgements
 
