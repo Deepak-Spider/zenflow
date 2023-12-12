@@ -5,7 +5,7 @@ As part of the design, calming colors, easy navigation, and visually pleasing im
 
 Visit ZenFlow's live site [here](https://deepak-spider.github.io/zenflow/)
 
-![ZenFlow responsive design](docs/screenshots/zenflow-mockup.jpg)
+![ZenFlow responsive design](docs/screenshots/mock-up.png)
 
 # Contents
 
@@ -181,7 +181,7 @@ ZenFlow website was sucessfully validated with the W3C HTML Validator and W3C CS
 
 ## Lighthouse Testing
 The website underwent Lighthouse testing using Chrome DevTools, assessing it across four key areas: Performance, Accessibility, Best Practices, and SEO.
-![Lighthouse testing](docs/screenshots/Lighthouse%20testing.png)
+![Lighthouse testing](docs/screenshots/lighthouse%20test.png)
 
 ## Responsive Testing
 Responsiveness was manually assessed across various mediums, with  Chrome DevTools and  [The Responsive Design Checker](https://responsivedesignchecker.com/) website.
@@ -211,22 +211,22 @@ The website testing through W3C HTML Validator revealed the following error and 
 
 ## Deployment
 
-* Gitpod is the IDE used for development.
+Gitpod is the IDE used for development.
 
-    * Sign in to GitPod with the GitHub account.
-    * With the Gitpod IDE extension for Google Chrome, create a new workspace in GitPod.
-    * Click on the  green button “Gitpod” in the GitHub repository.
-    * On the GitPod dashboard, create a new workspace and it will take us to a fully functional IDE in the browser.
-    * IDE (Integrated Development Environment) interface has a file explorer on the left, code editor in the center, and a terminal at the bottom.
-    * On the left side, there is a file explorer where we can navigate through our project files and can create, delete, and organise files and folders here.
-    * The central area is the code editor where we write and edit code. Gitpod supports syntax highlighting, autocompletion, and other features depending on the file type.
-    * At the bottom, there is a terminal. This is the command line interface to interact with the workspace. We can run commands, install dependencies, and execute scripts here.
-    * Gitpod integrates seamlessly with version control systems like Git Hub. We can use the version control features directly from the IDE to add, commit, push, and manage branches.
-    * By running a command python3 -m http.server will Open Preview and Open Ports with a preview URL. We can access this in the browser to see our website in action.
-    * We can access the Gitpod dashboard to manage your workspaces, configure settings, etc.
+* Sign in to GitPod with the GitHub account.
+* With the Gitpod IDE extension for Google Chrome, create a new workspace in GitPod.
+* Click on the  green button “Gitpod” in the GitHub repository.
+* On the GitPod dashboard, create a new workspace and it will take us to a fully functional IDE in the browser.
+* IDE (Integrated Development Environment) interface has a file explorer on the left, code editor in the center, and a terminal at the bottom.
+* On the left side, there is a file explorer where we can navigate through our project files and can create, delete, and organise files and folders here.
+* The central area is the code editor where we write and edit code. Gitpod supports syntax highlighting, autocompletion, and other features depending on the file type.
+* At the bottom, there is a terminal. This is the command line interface to interact with the workspace. We can run commands, install dependencies, and execute scripts here.
+* Gitpod integrates seamlessly with version control systems like Git Hub. We can use the version control features directly from the IDE to add, commit, push, and manage branches.
+* By running a command python3 -m http.server will Open Preview and Open Ports with a preview URL. We can access this in the browser to see our website in action.
+* We can access the Gitpod dashboard to manage your workspaces, configure settings, etc.
 
 
-The website has been deployed to GitHub pages using these steps:
+The website has been deployed to GitHub pages using following steps:
 
 * Go to the Settings tab in the GitHub repository for the project.
 * On the left side, scroll down to the pages tab.
