@@ -80,7 +80,7 @@ nav {
     font-size: 2rem;
 }
 
-/* Page H1 excluding home page */
+/* Page H2 excluding home page */
 .page-h2 {
     font-size: 2rem;
     padding: 20px;
@@ -191,6 +191,7 @@ main {
     padding-bottom: 10px;
     padding-left: 20px;
 }
+
 #about-cover-text p {
     padding: 0 20px;
 }
@@ -233,7 +234,6 @@ img {
     }
 }
 
-
 /* Join Us section */
 #joinus {
     background-image: url("../images/join-us.webp");
@@ -243,19 +243,16 @@ img {
     flex-grow: 1;
 }
 
-
 #joinus-form {
     color: #ffffff;
     background-color: #3c3c3c99;
     padding: 30px;
 }
 
-
 #joinus-form>h2 {
     color: #fafafa;
     margin-bottom: 20px;
 }
-
 
 .text-input {
     background: transparent;
