@@ -74,7 +74,7 @@ ZenFlow is aimed at individuals looking for a path to self-improvement. Its targ
 
 The design and structure for this website was created in Balsamiq
 
-![Home Page Low Fidelity Wireframne](docs/screenshots/Home.png)
+![Home Page Low Fidelity Wireframne](docs/screenshots/wireframe.png)
 
 ## Site Structure
 
@@ -177,7 +177,7 @@ ZenFlow website was sucessfully validated with the W3C HTML Validator and W3C CS
 ![W3C HTML Validator Join Us](docs/screenshots/join-us-page.png)
 ![W3C HTML Validator Thankyou](docs/screenshots/thank-you%20validation.png)
 
-![W3C CSS Validator](docs/screenshots/CSS%20Validation.png)
+![W3C CSS Validator](docs/screenshots/css%20validation.png)
 
 ## Lighthouse Testing
 The website underwent Lighthouse testing using Chrome DevTools, assessing it across four key areas: Performance, Accessibility, Best Practices, and SEO.
